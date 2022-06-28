@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@types/jest": "^28.1.3",
+    "@types/node": "^18.0.0",
+    "@types/superagent": "^4.1.15",
+    "jest": "^28.1.1",
+    "superagent": "^8.0.0",
+    "ts-jest": "^28.0.5",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  },
+  "name": "hw6_yauheni_rus_jestsuperagent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yauhenirusakovich/HW6_yauheni_rus_JestSuperAgent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yauhenirusakovich/HW6_yauheni_rus_JestSuperAgent/issues"
+  },
+  "homepage": "https://github.com/yauhenirusakovich/HW6_yauheni_rus_JestSuperAgent#readme",
+  "description": ""
+}
