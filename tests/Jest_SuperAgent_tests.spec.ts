@@ -1,12 +1,6 @@
 import superagent from "superagent";
 
 describe("my API requests", () => {
-
-    // const expObj: { id: number, email: string } = {
-    //     id: 52,
-    //     email: "rusakovich2304@gmail.com"
-    // };
-
     const expObj2: { id: number, email: string, first_name: string, last_name: string } = {
         id: 52,
         email: "rusakovich2304@gmail.com",
